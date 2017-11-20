@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "author": "crispy1989",
+  "contributors": [
+    "Attawit Kittikrairit <atton16@gmail.com>"
+  ],
   "repository": {
     "type": "git",
     "url": ""
